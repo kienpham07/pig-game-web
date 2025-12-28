@@ -41,4 +41,4 @@ A simple browser-based two-player dice game implemented with HTML, CSS, and Java
 
 MIT License — feel free to reuse and adapt.
 
-Creator: Kien Pham
+Dev: Kien Pham
